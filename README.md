@@ -1,2 +1,2 @@
 # Neural_Network
-Rede Neural Multilayer Perceptron MLP
+Neural network Multilayer Perceptron MLP
